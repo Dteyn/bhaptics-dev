@@ -1,4 +1,4 @@
-{"offset":3.8}
+{"baseOffset":808.58516}
 {"t":490.439,"api":"PlaybackHaptics","data":{"key":"HeartBeat","intensity":1,"duration":1}}
 {"t":23692.209,"api":"PlaybackHaptics","data":{"key":"FootStep_L","intensity":1,"duration":1}}
 {"t":51649.287,"api":"PlaybackHaptics","data":{"key":"SawbladeHands_L","intensity":1,"duration":1}}
